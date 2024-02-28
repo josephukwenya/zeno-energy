@@ -1,0 +1,17 @@
+{
+  "name": "zeno-energy",
+  "version": "1.0.0",
+  "description": "Company website",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "compile:sass": "node-sass scss/bootstrap.scss css/style.css -w"
+  },
+  "author": "Joseph Ukwenya",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
