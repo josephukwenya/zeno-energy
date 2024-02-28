@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "compile:sass": "node-sass scss/bootstrap.scss css/style.css -w"
+    "compile:scss": "node-sass scss/bootstrap.scss css/style.css -w"
   },
   "author": "Joseph Ukwenya",
   "license": "ISC",
